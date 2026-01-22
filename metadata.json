@@ -1,0 +1,8 @@
+
+{
+  "name": "HZIMS - Advanced Inventory Management",
+  "description": "A high-performance, AI-enhanced inventory management system with real-time analytics, role-based access control, and production-hardened workflows.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
